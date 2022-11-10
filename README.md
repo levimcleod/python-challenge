@@ -1,7 +1,7 @@
 # Python-Challenge
 
 # Description
-**PyBank:**
+## PyBank
 PyBank is a Python script that takes budget data in the form of "Date" and "Profit/Losses" from a .CVS file and makes the following calculations:
 -The total number of months included in the dataset
 -The net total amount of "Profit/Losses" over the entire period
@@ -9,7 +9,7 @@ PyBank is a Python script that takes budget data in the form of "Date" and "Prof
 -The greatest increase in profits (date and amount) over the entire period
 -The greatest decrease in profits (date and amount) over the entire period
 
-**PyPoll:**
+## PyPoll
 PyPoll is a Python script that takes election data in the form of "Voter ID", "County", and "Candidate" from a .CVS file and makes the following calculations:
 -The total number of votes cast
 -A complete list of candidates who received votes
