@@ -1,6 +1,5 @@
 # Python-Challenge
 
-# Description
 ## PyBank
 PyBank is a Python script that takes budget data in the form of "Date" and "Profit/Losses" from a .CVS file and makes the following calculations:
 - The total number of months included in the dataset
